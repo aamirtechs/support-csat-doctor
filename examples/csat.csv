@@ -1,0 +1,17 @@
+ticket_id,agent,score,date,comment
+T-201,Ana,5,2026-11-01,"Great help, issue fixed fast."
+T-202,Ana,4,2026-11-02,Good support.
+T-203,Ana,5,2026-11-03,Excellent.
+T-204,Ana,2,2026-11-04,Took too long to get a reply.
+T-205,Ben,3,2026-11-05,Okay but slow.
+T-206,Ben,2,2026-11-06,Agent was rude and unhelpful.
+T-207,Ben,1,2026-11-07,"Terrible, issue never fixed."
+T-208,Ben,2,2026-11-08,
+T-209,Cara,4,2026-11-09,Quick and friendly.
+T-210,Cara,5,2026-11-09,Very happy with the service.
+T-211,Cara,4,2026-11-10,Solved in one chat.
+T-212,Cara,5,2026-11-10,Brilliant support.
+T-213,Cara,6,2026-11-10,Great service.
+T-205,Ben,3,2026-11-05,Duplicate of T-205.
+T-214,,4,2026-11-10,Missing agent.
+T-215,Ben,4
